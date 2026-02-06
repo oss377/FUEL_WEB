@@ -1,0 +1,110 @@
+{
+  "common": {
+    "appName": "ፍሊትማስተር",
+    "welcome": "እንኳን ደህና መጡ",
+    "loading": "በመጫን ላይ...",
+    "save": "አስቀምጥ",
+    "cancel": "ሰርዝ",
+    "delete": "ሰርዝ",
+    "edit": "አርትዕ",
+    "view": "ተመልከት",
+    "search": "ፈልግ",
+    "filter": "አጣራ",
+    "logout": "ውጣ",
+    "login": "ግባ",
+    "register": "ተመዝገብ",
+    "darkMode": "ጨለማ ሁኔታ",
+    "lightMode": "ብርሃን ሁኔታ",
+    "language": "ቋንቋ",
+    "english": "እንግሊዝኛ",
+    "amharic": "አማርኛ",
+    "settings": "ማስተካከያዎች",
+    "searchPlaceholder": "ፈልግ...",
+    "profileSettings": "የመገለጫ ማስተካከያዎች",
+    "helpSupport": "እርዳታ እና ድጋፍ",
+    "systemSettings": "የስርዓት ማስተካከያዎች",
+    "goAdmin": "ወደ አስተዳዳሪ ሂድ",
+    "goDashboard": "ወደ ዳሽቦርድ ሂድ"
+  },
+  "nav": {
+    "home": "መነሻ",
+    "dashboard": "ዳሽቦርድ",
+    "reports": "ሪፖርቶች",
+    "stations": "ጣቢያዎች",
+    "vehicles": "ተሽከርካሪዎች",
+    "profile": "መገለጫ",
+    "adminPanel": "የአስተዳዳሪ ፓነል",
+    "features": "ባህሪያት",
+    "pricing": "ዋጋ",
+    "about": "ስለ እኛ",
+    "contact": "አግኙን"
+  },
+  "admin": {
+    "dashboard": "ዳሽቦርድ",
+    "users": "የተጠቃሚ አስተዳደር",
+    "stations": "ጣቢያዎች",
+    "vehicles": "ተሽከርካሪዎች",
+    "transactions": "ግብይቶች",
+    "reports": "ሪፖርቶች",
+    "analytics": "ትንታኔዎች",
+    "settings": "የስርዓት ማስተካከያዎች",
+    "security": "ደህንነት",
+    "panel": "የአስተዳዳሪ ፓነል",
+    "adminUser": "አስተዳዳሪ ተጠቃሚ",
+    "administrator": "አስተዳዳሪ"
+  },
+  "union": {
+    "dashboard": "ዳሽቦርድ",
+    "panel": "የማህበር ፓነል",
+    "vehicles": "ተሽከርካሪዎች",
+    "stations": "ጣቢያዎች",
+    "reports": "ሪፖርቶች",
+    "scheduling": "መርሐግብር",
+    "billing": "ክፍያ"
+  },
+  "auth": {
+    "signIn": "ግባ",
+    "signUp": "ተመዝገብ",
+    "email": "ኢሜይል አድራሻ",
+    "password": "የይለፍ ቃል",
+    "confirmPassword": "የይለፍ ቃል አረጋግጥ",
+    "fullName": "ሙሉ ስም",
+    "forgotPassword": "የይለፍ ቃል ረሳሁ?",
+    "resetPassword": "የይለፍ ቃል ዳግም አስጀምር",
+    "noAccount": "መለያ የሎትም?",
+    "haveAccount": "ቀድሞውኑ መለያ አለህ?",
+    "rememberPassword": "የይለፍ ቃልህን ትዝ አለህ?",
+    "backToLogin": "ወደ መግቢያ ተመለስ",
+    "loginFailed": "መግቢያ አልተሳካም",
+    "registerFailed": "ምዝገባ አልተሳካም",
+    "passwordMismatch": "የይለፍ ቃሎች አንድ አይነት አይደሉም",
+    "passwordLength": "የይለፍ ቃል ቢያንስ 6 ቁምፊ ሊኖረው ይገባል",
+    "resetEmailSent": "የይለፍ ቃል ዳግም ማስጀመሪያ ኢሜይል ተልኳል። የእርስዎን ሳጥን ያረጋግጡ።"
+  },
+  "dashboard": {
+    "welcome": "እንኳን ደህና መጡ",
+    "stats": {
+      "totalVehicles": "ጠቅላላ ተሽከርካሪዎች",
+      "activeStations": "ንቁ ጣቢያዎች",
+      "pendingReports": "በመጠባበቅ ላይ ያሉ ሪፖርቶች",
+      "systemUptime": "የስርዓት ማገልገያ ጊዜ"
+    },
+    "quickActions": {
+      "generateReport": "ሪፖርት ፍጠር",
+      "addVehicle": "ተሽከርካሪ ጨምር",
+      "viewStations": "ጣቢያዎችን ተመልከት",
+      "scheduleMaintenance": "ጥገና ያቅዱ"
+    },
+    "recentActivity": "የቅርብ ጊዜ እንቅስቃሴ"
+  },
+  "footer": {
+    "companyDescription": "ለዘመናዊ ተሽከርካሪዎች የተራቀቀ የተሽከርካሪ አስተዳደር ስርዓት።",
+    "quickLinks": "ፈጣን አገናኞች",
+    "support": "ድጋፍ",
+    "contactUs": "አግኙን",
+    "helpCenter": "የእርዳታ ማዕከል",
+    "documentation": "ሰነድ",
+    "privacyPolicy": "የግላዊነት ፖሊሲ",
+    "rightsReserved": "ሁሉም መብቶች የተጠበቁ ናቸው።"
+  }
+}

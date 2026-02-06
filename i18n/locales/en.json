@@ -1,0 +1,110 @@
+{
+  "common": {
+    "appName": "ETFUEL",
+    "welcome": "Welcome",
+    "loading": "Loading...",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View",
+    "search": "Search",
+    "filter": "Filter",
+    "logout": "Logout",
+    "login": "Login",
+    "register": "Register",
+    "darkMode": "Dark Mode",
+    "lightMode": "Light Mode",
+    "language": "Language",
+    "english": "English",
+    "amharic": "Amharic",
+    "settings": "Settings",
+    "searchPlaceholder": "Search...",
+    "profileSettings": "Profile Settings",
+    "helpSupport": "Help & Support",
+    "systemSettings": "System Settings",
+    "goAdmin": "Go to Admin",
+    "goDashboard": "Go to Dashboard"
+  },
+  "nav": {
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "reports": "Reports",
+    "stations": "Stations",
+    "vehicles": "Vehicles",
+    "profile": "Profile",
+    "adminPanel": "Admin Panel",
+    "features": "Features",
+    "pricing": "Pricing",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "admin": {
+    "dashboard": "Dashboard",
+    "users": "User Management",
+    "stations": "Stations",
+    "vehicles": "Vehicles",
+    "transactions": "Transactions",
+    "reports": "Reports",
+    "analytics": "Analytics",
+    "settings": "System Settings",
+    "security": "Security",
+    "panel": "Admin Panel",
+    "adminUser": "Admin User",
+    "administrator": "Administrator"
+  },
+  "union": {
+    "dashboard": "Dashboard",
+    "panel": "Union Panel",
+    "vehicles": "Vehicles",
+    "stations": "Stations",
+    "reports": "Reports",
+    "scheduling": "Scheduling",
+    "billing": "Billing"
+  },
+  "auth": {
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "email": "Email Address",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "fullName": "Full Name",
+    "forgotPassword": "Forgot Password?",
+    "resetPassword": "Reset Password",
+    "noAccount": "Don't have an account?",
+    "haveAccount": "Already have an account?",
+    "rememberPassword": "Remember your password?",
+    "backToLogin": "Back to login",
+    "loginFailed": "Login failed",
+    "registerFailed": "Registration failed",
+    "passwordMismatch": "Passwords do not match",
+    "passwordLength": "Password must be at least 6 characters long",
+    "resetEmailSent": "Password reset email sent. Check your inbox."
+  },
+  "dashboard": {
+    "welcome": "Welcome back",
+    "stats": {
+      "totalVehicles": "Total Vehicles",
+      "activeStations": "Active Stations",
+      "pendingReports": "Pending Reports",
+      "systemUptime": "System Uptime"
+    },
+    "quickActions": {
+      "generateReport": "Generate Report",
+      "addVehicle": "Add Vehicle",
+      "viewStations": "View Stations",
+      "scheduleMaintenance": "Schedule Maintenance"
+    },
+    "recentActivity": "Recent Activity"
+  },
+  "footer": {
+    "companyDescription": "Advanced vehicle management system for modern fleets.",
+    "quickLinks": "Quick Links",
+    "support": "Support",
+    "contactUs": "Contact Us",
+    "helpCenter": "Help Center",
+    "documentation": "Documentation",
+    "privacyPolicy": "Privacy Policy",
+    "rightsReserved": "All rights reserved"
+  }
+}
