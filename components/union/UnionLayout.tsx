@@ -3,7 +3,6 @@
 import { useState } from 'react';
 import Sidebar from './Sidebar';
 import DashboardNavbar from './DashboardNavbar';
-import Footer from '../Footer';
 
 export default function UnionLayout({ children }: { children: React.ReactNode }) {
   const [isCollapsed, setIsCollapsed] = useState(false);
@@ -17,7 +16,6 @@ export default function UnionLayout({ children }: { children: React.ReactNode })
         <main className="flex-1 p-4 md:p-6 lg:p-8">
           {children}
         </main>
-        <Footer />
       </div>   
     </div>
   );
